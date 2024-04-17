@@ -9,9 +9,9 @@ import javax.annotation.PostConstruct;
 import java.util.TimeZone;
 
 @SpringBootApplication
-@EntityScan(basePackageClasses = { 
-		PollsApplication.class,
-		Jsr310JpaConverters.class 
+@EntityScan(basePackageClasses = {
+		BooksystemApplication.class,
+		Jsr310JpaConverters.class
 })
 public class BooksystemApplication {
 
@@ -23,5 +23,4 @@ public class BooksystemApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(BooksystemApplication.class, args);
 	}
-
 }
