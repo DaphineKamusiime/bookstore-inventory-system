@@ -1,5 +1,6 @@
 package com.booksystem.booksystem.controller;
 
+import io.swagger.v3.oas.annotations.security.SecurityRequirement;
 import com.booksystem.booksystem.model.Category;
 import com.booksystem.booksystem.payload.CreateCategoryRequest;
 import com.booksystem.booksystem.service.CategoryService;
