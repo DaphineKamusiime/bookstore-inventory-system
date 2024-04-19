@@ -42,7 +42,10 @@ Query to be run to provide the result in the image below.
 INSERT INTO roles(name) VALUES('ROLE_STAFF');
 INSERT INTO roles(name) VALUES('ROLE_ADMIN');
 ```
-
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
 ![image](https://github.com/DaphineKamusiime/bookstore-inventory-system/assets/107240847/c96145cf-166a-476b-9a38-7208045dd7b6)
 
 #
